@@ -1,6 +1,13 @@
 ### PhillY
 
-hmmmm
+using languages:
+  main:
+    kotlin, java
+  sub / learning:
+    javascript, typescript
+  tried:
+    c, c++, python, haskell, go
+  
 
 <!--
 **philly706869/philly706869** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
