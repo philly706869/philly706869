@@ -4,17 +4,17 @@
 
 using languages:
 
-  main:
+　main:
   
-    kotlin, java
+　　kotlin, java
     
-  sub / learning:
+　sub / learning:
   
-    javascript, typescript
+　　javascript, typescript
     
-  tried:
+　tried:
   
-    c, c++, python, haskell, go
+　　c, c++, python, haskell, go
   
 
 <!--
