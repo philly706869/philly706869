@@ -1,14 +1,6 @@
 ### PhillY
 
----
-
-+ using languages  
-  + main  
-    + kotlin, java  
-  + sub / learning  
-    + javascript, typescript  
-  + tried  
-    + c, c++, python, haskell, go  
+---  
   
 
 <!--
